@@ -7,7 +7,7 @@ Welcome to **Kerri's Portfolio**, a personal showcase of my skills, projects, an
 ### 🚀 Live Demo
 
 You can view my live portfolio by clicking on the following link:  
-[**Kerri Portfolio - Live Demo**](YOUR_LIVE_PORTFOLIO_URL)
+[**Kerri Portfolio - Live Demo**] (https://asimali-dev.github.io/Kerri/)
 
 ---
 
